@@ -1,0 +1,30 @@
+.title{
+    text-align: center;
+    text-shadow: 5px 5px 5px red;
+}
+.add-text{
+    height: 150px;
+    border:1px solid black;
+    border-radius:10px ;
+
+    margin-top: 15px;
+}
+.but{
+    margin-top: 15px;
+
+}
+.in{
+    margin-top: 15px;
+    
+}
+.list{
+    margin-top: 15px;
+}
+.icons{
+    display :inline;
+     float :right;
+     font-size: 20px;
+}
+li span{
+    padding:5px 300px 5px 10px;
+}
